@@ -6,5 +6,5 @@ Here is a growing colleciton of resources and helpul command to know whn working
 
 ## Git Commands
 - [git config](./commands/Config.md)
-- [git init](./commands?Init.md)
+- [git init](./commands/Init.md)
 - [git add](./commands/Add.md)
